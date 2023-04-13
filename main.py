@@ -1,5 +1,5 @@
 from data.managing import Manager
 
-# im about to get erectile disfunction
+# the ultimate cheese game
 manager = Manager()
 manager.event_run()
